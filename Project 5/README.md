@@ -1,6 +1,9 @@
 Deploying a Sentiment Analysis Model
 
-				Project Folders Tree
+
+```
+				Project Folders Tree			
+				
 
 Project
 |
@@ -32,3 +35,5 @@ Project
 |__Web App Diagram.svg         (pic used in main file)
 |
 |__README.md                   (guide to start)
+
+```
